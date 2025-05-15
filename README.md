@@ -35,4 +35,3 @@
   [root@zabbix-server ~]# /usr/lib/zabbix/alertscripts/zabbix_dingding_webhook 4dd9e8f234c87533aa44079da5f7b9dd93393944939c6f "199xxxxx59" "服务器故障TEST" "抓紧修复"
   ```
 
-执行结果
