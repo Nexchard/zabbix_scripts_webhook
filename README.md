@@ -11,7 +11,7 @@
 [root@zabbix-server01 ~]# /usr/lib/zabbix/alertscripts/zabbix_wechat_webhook d5439b70-b7b8-47f8-8351-d33126 "张三" "服务器故障" "抓紧修复"
 2099/04/08 23:36:31 Message sent to WeChat
 ```
-## 
+##  钉钉webhook
 下载zabbix通过﻿webhook﻿发送给钉钉机器人的脚本，并拷贝到指定的目录中
 
 ```
